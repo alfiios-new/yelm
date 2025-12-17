@@ -1,73 +1,19 @@
 [
-  {
-    "name": "ASPIRE",
-    "tall": true,
-    "subtitle": "xxx"
-  },
-  {
-    "name": "idk"
-  },
-  {
-    "name": "BL1NG!",
-    "tall": true
-  },
-  {
-    "name": "lonely",
-    "tall": true,
-    "subtitle": "****"
-  },
-  {
-    "name": "diverge",
-    "tall": true
-  },
-  {
-    "name": "lost",
-    "tall": true,
-    "position": "right"
-  },
-  {
-    "name": "painted_red",
-    "tall": true
-  },
-  {
-    "name": "ribbons",
-    "tall": true
-  },
-  {
-    "name": "reminisce",
-    "tall": true
-  },
-  {
-    "name": "FADE",
-    "tall": true
-  },
-  {
-    "name": "echoes"
-  },
-  {
-    "name": "fractured",
-    "tall": true
-  },
-  {
-    "name": "solitude"
-  },
-  {
-    "name": "glimmer",
-    "tall": true
-  },
-  {
-    "name": "leafra",
-    "tall": true,
-    "subtitle": "This artwork reimagines a Byzantine mosaic where all three sacred figures bear tree-formed heads—branches rising like living crowns. The central figure holds a smaller tree-child, symbolizing renewal, lineage, and the quiet wisdom carried through roots and time. Golden tesserae shimmer around them, creating an aura of ancient divinity intertwined with organic growth. In this interpretation, the imagery resonates with Leafra—a mythos where knowledge grows like roots, consciousness branches outward, and every entity carries a living network of memory within. The mosaic becomes not just a historical artifact but a symbolic gateway into the Leafra world: a place where growth, recursion, and sacred organic intelligence coexist."
-  },
-  {
-    "name": "soli",
-    "tall": true,
-    "subtitle": "Mother & Child → 'Genesis Node' of Leafra\n\nIn Leafra lore, this figure represents the birth of the first consciousness within the green ecosystem.\n\nThe mother symbolizes the guardian of nature—an entity of warmth, protection, and continuity.\n\nThe child is the first growth unit—a 'seedling consciousness' that will one day form the larger Leafra network.\n\nMeaning:\nEvery beginning is fragile, yet protected — just like the earliest holders safeguarding $Leafra."
-  },
-  {
-    "name": "glim",
-    "tall": true
-  }
+  { "name": "ASPIRE", "size": "m", "subtitle": "xxx" },
+  { "name": "idk", "size": "s" },
+  { "name": "BL1NG!", "size": "m" },
+  { "name": "lonely", "size": "l", "subtitle": "****" },
+  { "name": "diverge", "size": "m" },
+  { "name": "lost", "size": "s", "position": "right" },
+  { "name": "painted_red", "size": "l" },
+  { "name": "ribbons", "size": "m" },
+  { "name": "reminisce", "size": "l" },
+  { "name": "FADE", "size": "m" },
+  { "name": "echoes", "size": "s" },
+  { "name": "fractured", "size": "l" },
+  { "name": "solitude", "size": "s" },
+  { "name": "glimmer", "size": "m" },
+  { "name": "leafra", "size": "xl", "subtitle": "..." },
+  { "name": "soli", "size": "xl", "subtitle": "..." },
+  { "name": "glim", "size": "m" }
 ]
-
